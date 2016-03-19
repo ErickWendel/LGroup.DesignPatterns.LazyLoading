@@ -1,0 +1,9 @@
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\LGroup.LazyLoading.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\LGroup.LazyLoading.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\LGroup.LazyLoading.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\nunit.framework.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\LGroup.LazyLoading.DataTransferObject.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\bin\Debug\nunit.framework.xml
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\obj\Debug\LGroup.LazyLoading.Test.csprojResolveAssemblyReference.cache
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\obj\Debug\LGroup.LazyLoading.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading\obj\Debug\LGroup.LazyLoading.pdb

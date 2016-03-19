@@ -1,0 +1,5 @@
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading.DataTransferObject\bin\Debug\LGroup.LazyLoading.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading.DataTransferObject\bin\Debug\LGroup.LazyLoading.DataTransferObject.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading.DataTransferObject\obj\Debug\LGroup.LazyLoading.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading.DataTransferObject\obj\Debug\LGroup.LazyLoading.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.LazyLoading\LGroup.LazyLoading.DataTransferObject\obj\Debug\LGroup.LazyLoading.DataTransferObject.pdb
